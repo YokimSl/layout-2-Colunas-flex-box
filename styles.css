@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.Coluna {
+    background-color: black;
+    display: flex;
+    flex-basis: 25%;
+    width: 100vh;
+    height: 100vh;
+}
+
+.coluna02 {
+    background-color: rgb(247, 2, 2);
+    display: flex;
+    width: 100vh;
+    flex: 1;
+    height: 100vh;
+}
